@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code (local overrides only — settings.json is safe to commit if present)
+.claude/settings.local.json
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
