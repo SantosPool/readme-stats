@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="392" viewBox="0 0 495 392">
+  <rect width="494" height="391" x=".5" y=".5" rx="4.5" fill="#1a1b27" stroke="#e4e2e2" stroke-opacity=".1"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="17" font-weight="600" fill="#e4e2e2" x="25" y="35" text-anchor="start">Top Projects by Commits</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="25" y="50" text-anchor="start">(public + private repos)</text>
+  <line x1="25" x2="470" y1="55" y2="55" stroke="#e4e2e2" stroke-opacity=".1"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="78" text-anchor="start">KuKulKanSystem</text>
+  <rect x="173" y="66" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="66" width="81" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="78" text-anchor="start">143</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="78" text-anchor="start">35.4%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="116" text-anchor="start">Unify</text>
+  <rect x="173" y="104" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="104" width="79" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="116" text-anchor="start">140</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="116" text-anchor="start">34.7%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="154" text-anchor="start">Lp2Assistant</text>
+  <rect x="173" y="142" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="142" width="15" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="154" text-anchor="start">28</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="154" text-anchor="start">6.9%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="192" text-anchor="start">CV</text>
+  <rect x="173" y="180" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="180" width="13" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="192" text-anchor="start">23</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="192" text-anchor="start">5.7%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="230" text-anchor="start">KSG</text>
+  <rect x="173" y="218" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="218" width="13" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="230" text-anchor="start">23</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="230" text-anchor="start">5.7%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="268" text-anchor="start">portfolio</text>
+  <rect x="173" y="256" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="256" width="13" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="268" text-anchor="start">23</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="268" text-anchor="start">5.7%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="306" text-anchor="start">ReduxSagaPatternduck</text>
+  <rect x="173" y="294" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="294" width="6" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="306" text-anchor="start">12</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="306" text-anchor="start">3.0%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="400" fill="#9f9f9f" x="25" y="344" text-anchor="start">KuKulKanSystemLanding</text>
+  <rect x="173" y="332" width="230" height="8" rx="4" fill="#2d2d3f"/>
+  <rect x="173" y="332" width="6" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#9f9f9f" x="413" y="344" text-anchor="start">12</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" font-weight="400" fill="#e4e2e2" x="471" y="344" text-anchor="start">3.0%</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="384" text-anchor="end">Updated 2026-05-02</text>
+</svg>
