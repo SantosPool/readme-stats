@@ -150,7 +150,11 @@ def fetch():
         if ref and ref.get("target"):
             count = ref["target"]["history"]["totalCount"]
             if count > 0:
-                repo_commits.append({"name": repo["name"], "commits": count})
+                langs = [
+                    {"name": e["node"]["name"], "color": e["node"]["color"] or "#858585"}
+                    for e in repo["languages"]["edges"][:4]
+                ]
+                repo_commits.append({"name": repo["name"], "commits": count, "langs": langs})
 
     repo_commits.sort(key=lambda r: -r["commits"])
     top_repos = repo_commits[:8]
@@ -275,33 +279,47 @@ def make_langs(langs):
 def make_projects(projects):
     today    = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     PAD      = 25
-    LABEL_W  = 148
-    BAR_X    = PAD + LABEL_W
-    BAR_W    = 230
-    COUNT_X  = BAR_X + BAR_W + 10
-    PCT_X    = COUNT_X + 58
-    ROW_H    = 38
+    BAR_W    = 380
+    PCT_X    = PAD + BAR_W + 10
     BAR_H    = 8
+    ROW_H    = 62   # 3 lines: name / bar / languages
     TITLE_H  = 60
     FOOTER_H = 28
     height   = TITLE_H + len(projects) * ROW_H + FOOTER_H
 
+    def lang_dots(langs, base_y):
+        """Colored circle + name for each language, spaced horizontally."""
+        elements = []
+        x = PAD
+        for lang in langs:
+            cx   = x + 5
+            cy   = base_y - 4
+            col  = lang["color"]
+            name = esc(lang["name"])
+            # estimate char width at 11px font ≈ 6.5px/char
+            label_w = int(len(lang["name"]) * 6.5)
+            elements.append(f'<circle cx="{cx}" cy="{cy}" r="4" fill="{col}"/>')
+            elements.append(txt(name, x + 13, base_y, fill=LABEL, size=11))
+            x += 13 + label_w + 14   # circle + label + gap
+            if x > 460:
+                break
+        return "\n  ".join(elements)
+
     rows = []
-    for proj in projects:
-        i        = projects.index(proj)
+    for i, proj in enumerate(projects):
         y        = TITLE_H + i * ROW_H
-        text_y   = y + 18
-        bar_y    = y + 6
+        name_y   = y + 16
+        bar_y    = y + 26
+        langs_y  = y + 50
         fill_w   = max(1, int(BAR_W * proj["pct"] / 100))
-        pct_str  = f"{proj['pct']:.1f}%"
-        count_str = f"{proj['commits']:,}"
+        pct_str  = f"{proj['commits']:,}  ({proj['pct']:.1f}%)"
         name     = esc(proj["name"])
         rows.append(
-            f"  {txt(name, PAD, text_y)}\n"
-            f'  <rect x="{BAR_X}" y="{bar_y}" width="{BAR_W}" height="{BAR_H}" rx="4" fill="{BAR_BG}"/>\n'
-            f'  <rect x="{BAR_X}" y="{bar_y}" width="{fill_w}" height="{BAR_H}" rx="4" fill="{ACCENT}"/>\n'
-            f"  {txt(count_str, COUNT_X, text_y, fill=LABEL, size=12)}\n"
-            f"  {txt(pct_str, PCT_X, text_y, fill=VALUE, size=12)}"
+            f"  {txt(name, PAD, name_y, fill=VALUE, size=13, weight='600')}\n"
+            f'  <rect x="{PAD}" y="{bar_y}" width="{BAR_W}" height="{BAR_H}" rx="4" fill="{BAR_BG}"/>\n'
+            f'  <rect x="{PAD}" y="{bar_y}" width="{fill_w}" height="{BAR_H}" rx="4" fill="{ACCENT}"/>\n'
+            f"  {txt(pct_str, PCT_X, bar_y + 7, fill=LABEL, size=11)}\n"
+            f"  {lang_dots(proj['langs'], langs_y)}"
         )
 
     content = "\n".join(rows)
