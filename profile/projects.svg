@@ -5,8 +5,8 @@
   <line x1="25" x2="470" y1="55" y2="55" stroke="#e4e2e2" stroke-opacity=".1"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="76" text-anchor="start">KuKulKanSystem</text>
   <rect x="25" y="86" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="86" width="148" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">167  (39.0%)</text>
+  <rect x="25" y="86" width="145" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">167  (38.4%)</text>
   <circle cx="30" cy="106" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="110" text-anchor="start">C#</text>
   <circle cx="70" cy="106" r="4" fill="#3178c6"/>
@@ -17,50 +17,50 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="262" y="110" text-anchor="start">PLpgSQL</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="138" text-anchor="start">Unify</text>
   <rect x="25" y="148" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="148" width="124" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="155" text-anchor="start">140  (32.7%)</text>
+  <rect x="25" y="148" width="122" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="155" text-anchor="start">140  (32.2%)</text>
   <circle cx="30" cy="168" r="4" fill="#945db7"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="172" text-anchor="start">Visual Basic .NET</text>
   <circle cx="167" cy="168" r="4" fill="#264b99"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="175" y="172" text-anchor="start">Inno Setup</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="200" text-anchor="start">Lp2Assistant</text>
   <rect x="25" y="210" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="210" width="24" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="217" text-anchor="start">28  (6.5%)</text>
+  <rect x="25" y="210" width="25" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="217" text-anchor="start">29  (6.7%)</text>
   <circle cx="30" cy="230" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="234" text-anchor="start">C#</text>
   <circle cx="70" cy="230" r="4" fill="#3572A5"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="78" y="234" text-anchor="start">Python</text>
   <circle cx="136" cy="230" r="4" fill="#89e051"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="144" y="234" text-anchor="start">Shell</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="262" text-anchor="start">CV</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="262" text-anchor="start">portfolio</text>
   <rect x="25" y="272" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="272" width="20" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="279" text-anchor="start">23  (5.4%)</text>
-  <circle cx="30" cy="292" r="4" fill="#e34c26"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="296" text-anchor="start">HTML</text>
-  <circle cx="83" cy="292" r="4" fill="#663399"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="91" y="296" text-anchor="start">CSS</text>
-  <circle cx="129" cy="292" r="4" fill="#f1e05a"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="137" y="296" text-anchor="start">JavaScript</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="324" text-anchor="start">KSG</text>
+  <rect x="25" y="272" width="23" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="279" text-anchor="start">27  (6.2%)</text>
+  <circle cx="30" cy="292" r="4" fill="#3178c6"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="296" text-anchor="start">TypeScript</text>
+  <circle cx="122" cy="292" r="4" fill="#663399"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="130" y="296" text-anchor="start">CSS</text>
+  <circle cx="168" cy="292" r="4" fill="#e34c26"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="176" y="296" text-anchor="start">HTML</text>
+  <circle cx="221" cy="292" r="4" fill="#384d54"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="229" y="296" text-anchor="start">Dockerfile</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="324" text-anchor="start">CV</text>
   <rect x="25" y="334" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="334" width="20" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">23  (5.4%)</text>
-  <circle cx="30" cy="354" r="4" fill="#178600"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="358" text-anchor="start">C#</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="386" text-anchor="start">portfolio</text>
+  <rect x="25" y="334" width="21" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">25  (5.7%)</text>
+  <circle cx="30" cy="354" r="4" fill="#e34c26"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="358" text-anchor="start">HTML</text>
+  <circle cx="83" cy="354" r="4" fill="#663399"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="91" y="358" text-anchor="start">CSS</text>
+  <circle cx="129" cy="354" r="4" fill="#f1e05a"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="137" y="358" text-anchor="start">JavaScript</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="386" text-anchor="start">KSG</text>
   <rect x="25" y="396" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="396" width="20" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="403" text-anchor="start">23  (5.4%)</text>
-  <circle cx="30" cy="416" r="4" fill="#3178c6"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="420" text-anchor="start">TypeScript</text>
-  <circle cx="122" cy="416" r="4" fill="#663399"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="130" y="420" text-anchor="start">CSS</text>
-  <circle cx="168" cy="416" r="4" fill="#e34c26"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="176" y="420" text-anchor="start">HTML</text>
-  <circle cx="221" cy="416" r="4" fill="#384d54"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="229" y="420" text-anchor="start">Dockerfile</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="403" text-anchor="start">23  (5.3%)</text>
+  <circle cx="30" cy="416" r="4" fill="#178600"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="420" text-anchor="start">C#</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="448" text-anchor="start">ReduxSagaPatternduck</text>
   <rect x="25" y="458" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="458" width="10" height="8" rx="4" fill="#70a5fd"/>
@@ -83,5 +83,5 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="176" y="544" text-anchor="start">JavaScript</text>
   <circle cx="260" cy="540" r="4" fill="#e34c26"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="268" y="544" text-anchor="start">HTML</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-04</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-05</text>
 </svg>
