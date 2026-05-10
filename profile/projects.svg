@@ -6,7 +6,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="76" text-anchor="start">KuKulKanSystem</text>
   <rect x="25" y="86" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="86" width="161" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">205  (42.5%)</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">205  (42.4%)</text>
   <circle cx="30" cy="106" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="110" text-anchor="start">C#</text>
   <circle cx="70" cy="106" r="4" fill="#3178c6"/>
@@ -47,8 +47,8 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="144" y="296" text-anchor="start">Shell</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="324" text-anchor="start">CV</text>
   <rect x="25" y="334" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="334" width="20" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">26  (5.4%)</text>
+  <rect x="25" y="334" width="21" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">27  (5.6%)</text>
   <circle cx="30" cy="354" r="4" fill="#e34c26"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="358" text-anchor="start">HTML</text>
   <circle cx="83" cy="354" r="4" fill="#663399"/>
@@ -83,5 +83,5 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="130" y="544" text-anchor="start">HTML</text>
   <circle cx="175" cy="540" r="4" fill="#663399"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="183" y="544" text-anchor="start">CSS</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-09</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-10</text>
 </svg>
