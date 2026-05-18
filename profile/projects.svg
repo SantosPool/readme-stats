@@ -6,7 +6,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="76" text-anchor="start">KuKulKanSystem</text>
   <rect x="25" y="86" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="86" width="164" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">222  (43.4%)</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">222  (43.3%)</text>
   <circle cx="30" cy="106" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="110" text-anchor="start">C#</text>
   <circle cx="70" cy="106" r="4" fill="#3178c6"/>
@@ -47,7 +47,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="144" y="296" text-anchor="start">Shell</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="324" text-anchor="start">CV</text>
   <rect x="25" y="334" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="334" width="20" height="8" rx="4" fill="#70a5fd"/>
+  <rect x="25" y="334" width="19" height="8" rx="4" fill="#70a5fd"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">27  (5.3%)</text>
   <circle cx="30" cy="354" r="4" fill="#e34c26"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="358" text-anchor="start">HTML</text>
@@ -76,8 +76,8 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="510" text-anchor="start">readme-stats</text>
   <rect x="25" y="520" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="520" width="14" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="527" text-anchor="start">19  (3.7%)</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="527" text-anchor="start">20  (3.9%)</text>
   <circle cx="30" cy="540" r="4" fill="#3572A5"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="544" text-anchor="start">Python</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-17</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-05-18</text>
 </svg>
