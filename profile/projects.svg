@@ -6,7 +6,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="76" text-anchor="start">KuKulKanSystem</text>
   <rect x="25" y="86" width="380" height="8" rx="4" fill="#2d2d3f"/>
   <rect x="25" y="86" width="157" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">228  (41.5%)</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="93" text-anchor="start">228  (41.4%)</text>
   <circle cx="30" cy="106" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="110" text-anchor="start">C#</text>
   <circle cx="70" cy="106" r="4" fill="#3178c6"/>
@@ -17,7 +17,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="262" y="110" text-anchor="start">Shell</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="138" text-anchor="start">Unify</text>
   <rect x="25" y="148" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="148" width="98" height="8" rx="4" fill="#70a5fd"/>
+  <rect x="25" y="148" width="97" height="8" rx="4" fill="#70a5fd"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="155" text-anchor="start">142  (25.8%)</text>
   <circle cx="30" cy="168" r="4" fill="#945db7"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="172" text-anchor="start">Visual Basic .NET</text>
@@ -25,13 +25,13 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="175" y="172" text-anchor="start">Inno Setup</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="200" text-anchor="start">readme-stats</text>
   <rect x="25" y="210" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="210" width="32" height="8" rx="4" fill="#70a5fd"/>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="217" text-anchor="start">47  (8.5%)</text>
+  <rect x="25" y="210" width="33" height="8" rx="4" fill="#70a5fd"/>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="217" text-anchor="start">48  (8.7%)</text>
   <circle cx="30" cy="230" r="4" fill="#3572A5"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="234" text-anchor="start">Python</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="262" text-anchor="start">CV</text>
   <rect x="25" y="272" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="272" width="20" height="8" rx="4" fill="#70a5fd"/>
+  <rect x="25" y="272" width="19" height="8" rx="4" fill="#70a5fd"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="279" text-anchor="start">29  (5.3%)</text>
   <circle cx="30" cy="292" r="4" fill="#e34c26"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="296" text-anchor="start">HTML</text>
@@ -41,7 +41,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="137" y="296" text-anchor="start">JavaScript</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="324" text-anchor="start">portfolio</text>
   <rect x="25" y="334" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="334" width="20" height="8" rx="4" fill="#70a5fd"/>
+  <rect x="25" y="334" width="19" height="8" rx="4" fill="#70a5fd"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="341" text-anchor="start">29  (5.3%)</text>
   <circle cx="30" cy="354" r="4" fill="#3178c6"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="358" text-anchor="start">TypeScript</text>
@@ -53,7 +53,7 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="229" y="358" text-anchor="start">Dockerfile</text>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#e4e2e2" x="25" y="386" text-anchor="start">Lp2Assistant</text>
   <rect x="25" y="396" width="380" height="8" rx="4" fill="#2d2d3f"/>
-  <rect x="25" y="396" width="20" height="8" rx="4" fill="#70a5fd"/>
+  <rect x="25" y="396" width="19" height="8" rx="4" fill="#70a5fd"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="415" y="403" text-anchor="start">29  (5.3%)</text>
   <circle cx="30" cy="416" r="4" fill="#178600"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="38" y="420" text-anchor="start">C#</text>
@@ -79,5 +79,5 @@
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="222" y="544" text-anchor="start">JavaScript</text>
   <circle cx="306" cy="540" r="4" fill="#663399"/>
   <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" font-weight="400" fill="#9f9f9f" x="314" y="544" text-anchor="start">CSS</text>
-  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-06-14</text>
+  <text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="10" font-weight="400" fill="#9f9f9f" x="470" y="576" text-anchor="end">Updated 2026-06-15</text>
 </svg>
